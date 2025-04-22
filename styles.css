@@ -458,6 +458,11 @@ footer .caixa-footer .copyright {
         padding-top: 2rem;
     }
 
+    header section .menu-mobile .mobile-nav a:hover {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
     header section .mascara-mobile {
         visibility: hidden;
         z-index: 3;
